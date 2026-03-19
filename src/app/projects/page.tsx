@@ -124,7 +124,7 @@ const projects = [
     year: "2026",
     description: "Dress-up game with a creepy story....",
     tech: ["Godot Engine", "GdScript", "Krita", "Git"],
-    image: "public/images/projects/hallowinx.png",
+    image: "/images/projects/hallowinx.png",
     demo: "https://github.com/wanxiturro/Hallowinx-dress-up-game/releases/download/0.0.7/hellowinx.apk",
     github: "https://github.com/wanxiturro/Hallowinx-dress-up-game",
     type: "GAME",
