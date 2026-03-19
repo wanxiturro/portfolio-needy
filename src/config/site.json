@@ -1,0 +1,49 @@
+{
+  "personal": {
+    "name": "Wanxiturro",
+    "firstName": "Wan",
+    "lastName": "xiturro",
+    "title": "> FullStack Developer / Level ???",
+    "shortDescription": "Computer Engineer with 4+ years of experience...",
+    "longDescription": "Computer Engineer with 4+ years of technical experience in the full software development lifecycle and infrastructure management.",
+    "longDescription2": "I specialize in the JavaScript ecosystem (Next.js, Node.js) and mobile development with Flutter, building robust and scalable applications."
+  },
+  "social": {
+    "github": "wanxiturro",
+    "linkedin": "wanxiturro",
+    "email": "tu@email.com",
+    "portfolio": "wanxiturro.dev"
+  },
+  "stats": {
+    "projects": "25+",
+    "experience": "4+",
+    "certifications": "5",
+    "coffee": "∞"
+  },
+  "skills": [
+    { "name": "Next.js / React", "level": 90, "color": "neon-pink", "icon": "▲" },
+    { "name": "TypeScript", "level": 85, "color": "neon-blue", "icon": "TS" },
+    { "name": "Node.js", "level": 80, "color": "neon-green", "icon": "⚙️" },
+    { "name": "Tailwind CSS", "level": 95, "color": "neon-purple", "icon": "🌊" },
+    { "name": "Flutter", "level": 75, "color": "neon-yellow", "icon": "🦋" },
+    { "name": "Docker", "level": 70, "color": "neon-orange", "icon": "🐳" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "HYPATIA - AI VIRTUAL ASSISTANT",
+      "episode": "EP01",
+      "year": "2023",
+      "description": "AI virtual assistant originally developed as a mobile app, later migrated to WhatsApp. Project discontinued but served as a learning experience in AI integration.",
+      "tech": ["Python", "WhatsApp API", "AI/ML"],
+      "type": "AI",
+      "status": "discontinued"
+    }
+  ],
+  "equipment": [
+    { "item": "VS CODE", "power": "S+", "icon": "📝", "desc": "Main weapon" },
+    { "item": "TERMINAL", "power": "S", "icon": "💻", "desc": "Command line" },
+    { "item": "GITHUB", "power": "A+", "icon": "🐙", "desc": "Version control" },
+    { "item": "COFFEE", "power": "EX", "icon": "☕", "desc": "Fuel source" }
+  ]
+}
