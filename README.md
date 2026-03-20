@@ -2,9 +2,9 @@
   
 ![Needy Girl Overdose Banner](public/view/header.png)
 
-# PORTFOLIO STYLE
+# PORTFOLIO
 
-### *Needy Girl Overdose / Vaporwave 80s*
+### *Style: Needy Girl Overdose / Vaporwave 80s*
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -70,10 +70,10 @@ A **glitchy, vaporwave-infused portfolio** inspired by the aesthetics of **NEEDY
 bash
 
 # Clone the repository
-git clone https://github.com/wanxiturro/wanxiturro-portfolio.git
+git clone https://github.com/wanxiturro/portfolio-needy
 
 # Navigate to the project
-cd wanxiturro-portfolio
+cd portfolio-needy
 
 # Install dependencies
 npm install
@@ -98,10 +98,10 @@ COMING SOON...
 - Submit pull requests
 - Share your customizations
 
-Read [CONTRIBUTING.md]() to get started.
+Read [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 ## 📜 License
-MIT - Free to use, modify, and share!
+MIT - Free to use, modify, and share! [LICENSE](LICENSE.md)
 
 <div align="center">
 ä̞̭̲̰͈̟͚́̈̏̈ͫ̉ͮͮ͆ͨ̏ͬ͟͢ṁ͔̳ͬ̓̆͗͘e̢̧̛͇̼͚̻̼͖̥͚͔͔͇̥͕ͭ̃ͩͨ͒̇ͦ͊ͪ͋ͨ̈͋̑̂͋ͥ̂̃ͫ͐́̕͢͞͠-ͪc̷͍͚̯̰̥̯̬̩̩̤ͪ͂̒ͬ̏ͮ̽̃ͧ͐́͒ͦͪ̄͗͊̀̾ͦ͘͘͠h͕̭̱̪̪ͥ̏̅ͧ̑_̢̼̖͕̫͇͑͂ͥ̊͋̚̚ą̷̷̷̦̮̠̱̺̟͖̙̬̱̹̱͙̍̍ͭ͂̌̉ͤ̂͑͑̑͒̀ͭ̚̕͠n̶̷̨̨͇̙̦̞͔̝̲͚̯̞͔̩̜̰͎͎͈̞͎̳͓̾ͨ̓̉͛͊͌̌ͮͬ̓̒̑ͥͪ̑͘̚͟͞ i̢͓ͥ͘s̶̨̡̨̨̰̹̭͇͎͇̦̞̳͚̥̖͇̞̮̟̜̳͋̏̍̀͊̒̐̄ͯ̈ͦ͑͂̈́ͥͮ̾͜͟ w̛͈̦͈͗̊̂̿͠͡à͔̓t̶̻̝̹̥̜̱͎̹̪̿ͥ̔ͨ̓ͪ͑͂͒͞_̵̮̫̤ͪ͝ç̷̯͔͍̯̮̰̈ͤ̿̽͂ͥ͡͡h͈͙̰̲̖̃̒̉͆͌͘i̴̡̢̬̮̮̮͍̬̘̰̤ͬ̊̒̐̇ͬ̓n͘g͚̣̟̤̦͆̌ͭ͊̔.̧̣͓̣̣̙̋͆ͥ̅̍ͨ̈́.̸̷̧̧̢̨̻͙̺̬̖͖̘͍̂̊ͯͣ̾͆ͬͨ͟͞.̷̸̵̡̛̟̺͇̘̩̫̘̱̰̺̒̋̐ͮ͑̎̏̈́ͯ̂ͬ̇͐͝ 👁️
