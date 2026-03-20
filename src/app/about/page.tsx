@@ -207,7 +207,7 @@ const techStack = [
             <div className="relative">
               <div className="w-48 h-48 mx-auto rounded-full border-4 border-neon-pink overflow-hidden glow-effect mb-4">
                 <Image
-                  src="/images/wx.png"
+                  src="images/wx.png"
                   alt="Wanxiturro"
                   width={200}
                   height={200}

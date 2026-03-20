@@ -60,7 +60,7 @@ export default function NotFound() {
           <div className="relative w-48 h-48 mx-auto mb-0 group">
             <div className="relative w-full h-full">
               <Image
-                src="/images/gifs/kangel-gli.gif"
+                src="images/gifs/kangel-gli.gif"
                 alt="Ame-chan 404"
                 fill
                 className="object-contain pixelated"

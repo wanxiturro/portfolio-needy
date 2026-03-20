@@ -49,7 +49,7 @@ export default function DiscontinuedPage() {
           <div className="relative w-64 h-64 mx-auto mb-0 group">
             <div className="relative w-full h-full">
               <Image
-                src="/images/gifs/nso2.gif"
+                src="images/gifs/nso2.gif"
                 alt="Ame-chan corrupted"
                 fill
                 className="object-contain pixelated"

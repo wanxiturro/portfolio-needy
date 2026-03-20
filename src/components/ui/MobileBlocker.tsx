@@ -31,9 +31,9 @@ export default function MobileBlocker() {
   const [showSecret, setShowSecret] = useState(false)
 
   const gifs = [
-    '/images/gifs/nso.gif', 
-    '/images/gifs/nso2.gif', 
-    '/images/gifs/nso4.gif',  
+    'images/gifs/nso.gif', 
+    'images/gifs/nso2.gif', 
+    'images/gifs/nso4.gif',  
   ]
 
   const messages = [

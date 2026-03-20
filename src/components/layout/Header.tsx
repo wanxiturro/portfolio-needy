@@ -26,15 +26,15 @@ export default function Header() {
   const [scrollProgress, setScrollProgress] = useState(0)
   const [mascotMessage, setMascotMessage] = useState('いらっしゃいませ！ ✨')
   const [showMascot, setShowMascot] = useState(false)
-  const [logoImage, setLogoImage] = useState('/images/gifs/kangel-cheer.gif')
+  const [logoImage, setLogoImage] = useState('images/gifs/kangel-cheer.gif')
   const pathname = usePathname()
 
   const regularImages = [
-    '/images/wx.png',
+    'images/wx.png',
   ]
 
   const specialGifs = [
-    '/images/gifs/kangel-cheer.gif',
+    'images/gifs/kangel-cheer.gif',
   ]
 
   useEffect(() => {
@@ -193,7 +193,7 @@ export default function Header() {
         <div className="relative group">
           <div className="relative w-32 h-432 md:w-40 md:h-40 lg:w-32 lg:h-32">
             <Image
-              src="/images/gifs/nso2.gif"
+              src="images/gifs/nso2.gif"
               alt="ame mascot"
               fill
               className="object-contain pixelated"

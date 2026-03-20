@@ -19,31 +19,31 @@ import Image from 'next/image'
 export default function ContactPage() {
   const ameGifs = [
     { 
-      gif: "/images/gifs/live.gif", 
+      gif: "images/gifs/live.gif", 
       title: "AME-CHAN DANCING", 
       viewers: "7.0K",
       song: "EUROBEAT MIX"
     },
     { 
-      gif: "/images/gifs/live2.gif", 
+      gif: "images/gifs/live2.gif", 
       title: "GLITCH MODE", 
       viewers: "3.1K",
       song: "INTERNET YAMERO"
     },
     { 
-      gif: "/images/gifs/live3.gif", 
+      gif: "images/gifs/live3.gif", 
       title: "JUST CHILLING", 
       viewers: "500",
       song: "LO-FI BEATS"
     },
     { 
-      gif: "/images/gifs/live4.gif", 
+      gif: "images/gifs/live4.gif", 
       title: "NEEDY STREAM OVERDOSE", 
       viewers: "1",
       song: "Aiobahn - INTERNET YAMERO"
     },
     { 
-      gif: "/images/gifs/live5.gif", 
+      gif: "images/gifs/live5.gif", 
       title: "POWER MODE", 
       viewers: "4.7K",
       song: "HYPER TECHNO"
