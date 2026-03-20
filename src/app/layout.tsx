@@ -23,9 +23,9 @@ export const metadata: Metadata = {
   description: 'Needystreamer portfolio theme',
   icons: {
     icon: [
-      { url: '/favicon.ico', sizes: 'any' },
+      { url: 'favicon.ico', sizes: 'any' },
     ],
-    shortcut: ['/favicon.ico'],
+    shortcut: ['favicon.ico'],
   },
 }
 
