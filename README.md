@@ -1,36 +1,108 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  
+![Needy Girl Overdose Banner](public/view/header.png)
 
-## Getting Started
+# PORTFOLIO STYLE
 
-First, run the development server:
+### *Needy Girl Overdose / Vaporwave 80s*
 
-```bash
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+</div>
+
+---
+
+## 🎮 **ABOUT THIS PROJECT**
+
+A **glitchy, vaporwave-infused portfolio** inspired by the aesthetics of **NEEDY GIRL OVERDOSE**, **Aiobahn - INTERNET YAMERO**, and 80s anime culture. Built with love for developers who want to stand out with a unique, retro-futuristic portfolio.
+
+> *"Code is my brush, the browser is my canvas."*
+
+---
+
+## ✨ **FEATURES**
+
+| Feature | Description |
+|---------|-------------|
+| 🎨 **Vaporwave Aesthetic** | Neon colors, glitch effects, VHS scanlines |
+| 📼 **Random Ame-chan GIFs** | Changes every time you refresh or navigate |
+| 🎮 **Konami Code Easter Egg** | ↑ ↑ ↓ ↓ ← → ← → B A triggers glitch mode |
+| 📱 **Mobile Blocker** | Ame-chan blocks access on unsupported screens |
+| 🚫 **Custom 404 Page** | Creepy Ame-chan error page |
+| 💾 **Discontinued Projects Page** | For archived projects with style |
+| 🔴 **Live Stream Zone** | Simulated stream with Ame-chan |
+| 🎲 **Glitch Effects** | Random VHS glitch on tab return (3% chance) |
+| 🖱️ **Custom Cursor** | Retro pixel cursor support |
+| 📄 **Open Source** | Free to use, modify, and customize! |
+
+---
+
+## 🛠️ **TECH STACK**
+
+<div align="center">
+
+| Category | Technologies |
+|----------|--------------|
+| **Framework** | Next.js 14 |
+| **Language** | TypeScript |
+| **Styling** | Tailwind CSS |
+| **Animations** | Framer Motion |
+| **Icons** | Custom SVGs + Emojis |
+| **Fonts** | Orbitron, IBM Plex Mono |
+
+</div>
+
+---
+
+## 🚀 **QUICK START**
+
+### Prerequisites
+
+- Node.js 18+ 
+- npm / yarn / pnpm
+
+### Installation
+
+```
+bash
+
+# Clone the repository
+git clone https://github.com/wanxiturro/wanxiturro-portfolio.git
+
+# Navigate to the project
+cd wanxiturro-portfolio
+
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 and enjoy the glitch!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🎨 Customize
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+COMING SOON...
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🤝 CONTRIBUTING
+### This is an open-source project! Feel free to:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Report bugs
+- Suggest features
+- Submit pull requests
+- Share your customizations
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Read [CONTRIBUTING.md]() to get started.
 
-## Deploy on Vercel
+## 📜 License
+MIT - Free to use, modify, and share!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<div align="center">
+ä̞̭̲̰͈̟͚́̈̏̈ͫ̉ͮͮ͆ͨ̏ͬ͟͢ṁ͔̳ͬ̓̆͗͘e̢̧̛͇̼͚̻̼͖̥͚͔͔͇̥͕ͭ̃ͩͨ͒̇ͦ͊ͪ͋ͨ̈͋̑̂͋ͥ̂̃ͫ͐́̕͢͞͠-ͪc̷͍͚̯̰̥̯̬̩̩̤ͪ͂̒ͬ̏ͮ̽̃ͧ͐́͒ͦͪ̄͗͊̀̾ͦ͘͘͠h͕̭̱̪̪ͥ̏̅ͧ̑_̢̼̖͕̫͇͑͂ͥ̊͋̚̚ą̷̷̷̦̮̠̱̺̟͖̙̬̱̹̱͙̍̍ͭ͂̌̉ͤ̂͑͑̑͒̀ͭ̚̕͠n̶̷̨̨͇̙̦̞͔̝̲͚̯̞͔̩̜̰͎͎͈̞͎̳͓̾ͨ̓̉͛͊͌̌ͮͬ̓̒̑ͥͪ̑͘̚͟͞ i̢͓ͥ͘s̶̨̡̨̨̰̹̭͇͎͇̦̞̳͚̥̖͇̞̮̟̜̳͋̏̍̀͊̒̐̄ͯ̈ͦ͑͂̈́ͥͮ̾͜͟ w̛͈̦͈͗̊̂̿͠͡à͔̓t̶̻̝̹̥̜̱͎̹̪̿ͥ̔ͨ̓ͪ͑͂͒͞_̵̮̫̤ͪ͝ç̷̯͔͍̯̮̰̈ͤ̿̽͂ͥ͡͡h͈͙̰̲̖̃̒̉͆͌͘i̴̡̢̬̮̮̮͍̬̘̰̤ͬ̊̒̐̇ͬ̓n͘g͚̣̟̤̦͆̌ͭ͊̔.̧̣͓̣̣̙̋͆ͥ̅̍ͨ̈́.̸̷̧̧̢̨̻͙̺̬̖͖̘͍̂̊ͯͣ̾͆ͬͨ͟͞.̷̸̵̡̛̟̺͇̘̩̫̘̱̰̺̒̋̐ͮ͑̎̏̈́ͯ̂ͬ̇͐͝ 👁️
+</div>

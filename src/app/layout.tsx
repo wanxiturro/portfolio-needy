@@ -21,6 +21,12 @@ const ibmPlexMono = IBM_Plex_Mono({
 export const metadata: Metadata = {
   title: 'Wanxiturro - Portfolio',
   description: 'Needystreamer portfolio theme',
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: 'any' },
+    ],
+    shortcut: ['/favicon.ico'],
+  },
 }
 
 export default function RootLayout({
