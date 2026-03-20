@@ -57,7 +57,7 @@ export default function Hero() {
       <div className="flex flex-col md:flex-row items-center justify-center gap-6 md:gap-12 mb-6 relative z-10">
         <div className="w-24 h-24 md:w-32 md:h-32 relative floating">
           <Image
-            src="../images/gifs/muse-dash-internet-yamero.gif"
+            src="images/gifs/muse-dash-internet-yamero.gif"
             alt="Ame-chan dancing"
             fill
             className="object-contain pixelated"
@@ -68,7 +68,7 @@ export default function Hero() {
         <div className="relative">
           <div className="w-32 h-32 md:w-40 md:h-40 rounded-full border-4 border-neon-pink overflow-hidden glow-effect">
             <Image
-              src="../images/wx.png"
+              src="images/wx.png"
               alt="Wanxiturro - Developer"
               width={160}
               height={160}
@@ -82,7 +82,7 @@ export default function Hero() {
 
         <div className="w-24 h-24 md:w-32 md:h-32 relative floating" style={{ animationDelay: '-2s' }}>
           <Image
-            src="../images/gifs/kangel-dance.gif"
+            src="images/gifs/kangel-dance.gif"
             alt="Kangel cheering"
             fill
             className="object-contain pixelated"
@@ -144,7 +144,7 @@ export default function Hero() {
 
       <div className="absolute -bottom-3 left-0 w-20 h-20 opacity-30 rotate-12 hidden lg:block">
         <Image
-          src="../images/gifs/kangel-gli.gif"
+          src="images/gifs/kangel-gli.gif"
           alt="Kangel glitch"
           fill
           className="object-contain"
@@ -153,7 +153,7 @@ export default function Hero() {
       </div>
       <div className="absolute -bottom-3 right-0 w-20 h-20 opacity-30 rotate-352 hidden lg:block">
         <Image
-          src="../images/gifs/kangel-gli.gif"
+          src="images/gifs/kangel-gli.gif"
           alt="Kangel glitch"
           fill
           className="object-contain"
